@@ -17,7 +17,7 @@ Responsive design: The application is designed to work well on both desktop and 
 ``` npm install```
 
 4. Run the application:<br>
-``` npm start```
+``` npm start```<br>
 Open http://localhost:3000 to view it in the browser.
 
 ## Usage <br>
