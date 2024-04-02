@@ -18,13 +18,14 @@ Responsive design: The application is designed to work well on both desktop and 
 
 4. Run the application:<br>
 ```npm start```<br>
-Open http://localhost:3000 to view it in the browser.
+- Open http://localhost:3000 to view it in the browser.
 
 ## Usage <br>
-Type the task you want to add into the input field.
-Press the "Add Todo" button to add the task to the list.
-Click the "Delete" button next to a task to remove it from the list.
-Contributing
++ Type the task you want to add into the input field.<br>
++ Press the "Add Todo" button to add the task to the list.<br>
++ Click the "Delete" button next to a task to remove it from the list.<br>
+
+## Contributing <br>
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
 
