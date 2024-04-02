@@ -1,4 +1,4 @@
-**React Todo List**
+**React Todo List** <br>
 This is a simple todo list application built using React. It allows users to add new tasks to a list, mark tasks as completed, and delete tasks.
 
 **Features**
@@ -27,5 +27,4 @@ Click the "Delete" button next to a task to remove it from the list.
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
-+ shivam
-  + 22bcs
+
