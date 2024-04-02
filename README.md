@@ -8,16 +8,16 @@ Responsive design: The application is designed to work well on both desktop and 
 
 ## Installation
 1. Clone the repository:<br>
-``` git clone  https://github.com/Shivam-9992/To-Do-Application/to-do-app.git ```
+```git clone  https://github.com/Shivam-9992/To-Do-Application/to-do-app.git```
 
 2. Navigate into the project directory:<br>
-``` cd to-do-app```
+```cd to-do-app```
 
 3. Install dependencies:<br>
-``` npm install```
+```npm install```
 
 4. Run the application:<br>
-``` npm start```<br>
+```npm start```<br>
 Open http://localhost:3000 to view it in the browser.
 
 ## Usage <br>
