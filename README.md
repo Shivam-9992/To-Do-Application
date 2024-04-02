@@ -1,4 +1,4 @@
-**React Todo List** <br>
+#### React Todo List <br>
 This is a simple todo list application built using React. It allows users to add new tasks to a list, mark tasks as completed, and delete tasks.
 
 **Features**
