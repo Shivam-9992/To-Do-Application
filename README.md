@@ -7,7 +7,7 @@ Delete tasks: Each task in the list has a delete button that allows users to rem
 Responsive design: The application is designed to work well on both desktop and mobile devices.
 
 **Installation**
-1. Clone the repository:
+1. Clone the repository:<br>
 ``` git clone  https://github.com/Shivam-9992/To-Do-Application/to-do-app.git ```
 
 2. Navigate into the project directory:
