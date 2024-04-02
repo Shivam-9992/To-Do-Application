@@ -1,20 +1,24 @@
 import React, { useState } from 'react';
 import './main.css';
 
+// This is the main function using states 
 function TodoList() {
   const [todos, setTodos] = useState([]);
   const [input, setInput] = useState('');
 
+    // This function is created to handle the input values
   function handleChange(e) {
     setInput(e.target.value);
   }
 
+    // This function describe how the input task is added in the feed
   function handleSubmit(e) {
     e.preventDefault();
     setTodos([...todos, input]);
     setInput('');
   }
 
+    // This is the function to deleting the existing task
   function handleDelete(index) {
     const newTodos = [...todos];
     newTodos.splice(index, 1);
