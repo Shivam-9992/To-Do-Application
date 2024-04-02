@@ -8,7 +8,7 @@ Responsive design: The application is designed to work well on both desktop and 
 
 ## Installation
 1. Clone the repository:<br>
-```git clone  https://github.com/Shivam-9992/To-Do-Application/to-do-app.git "copy"``` 
+```git clone  https://github.com/Shivam-9992/To-Do-Application/to-do-app.git``` 
 
 2. Navigate into the project directory:<br>
 ```cd to-do-app```
